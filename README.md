@@ -25,7 +25,7 @@ In this project, I experimented with different configurations of the Decision Tr
         * `sklearn.model_selection` for data splitting
         * `sklearn.tree` for DecisionTreeClassifier
         * `sklearn.metrics` for accuracy scores
-    * time ([https://docs.python.org/3/library/time.html])
+    * time (https://docs.python.org/3/library/time.html)
 
 **Usage**
 
